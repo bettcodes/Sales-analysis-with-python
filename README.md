@@ -1,6 +1,6 @@
 # Supermarket Sales Performance Analysis
 
-Welcome to my first data science portfolio project! This repository contains an end-to-end data processing and Exploratory Data Analysis (EDA) framework built to analyze supermarket transaction records from 2019. The project focuses on handling programmatic data cleaning, structured aggregations, and multi-dimensional visual reporting.
+Welcome to my first data analysis portfolio project! This repository contains an end-to-end data processing and Exploratory Data Analysis (EDA) framework built to analyze supermarket transaction records from 2019. The project focuses on handling programmatic data cleaning, structured aggregations, and multi-dimensional visual reporting.
 
 ## 📁 Repository Architecture
 
